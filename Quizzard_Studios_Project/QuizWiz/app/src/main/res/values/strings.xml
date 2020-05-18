@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">QuizWizard!</string>
+    <string name="textview">High Score:</string>
+    <string name="button">Dragon Ball Z</string>
+    <string name="UserCreatedQuizzes">User Quizzes</string>
+    <string name="tv_flim">TV/Flim</string>
+    <string name="history">History</string>
+    <string name="sports">Sports</string>
+    <string name="quizwiz">QuizWizard!</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="question">star Joe Dimaggio married which actress</string>
+    <string name="answer_1">OJ Simpson</string>
+    <string name="mohammed_ali">Mohammed Ali</string>
+    <string name="answer_3">marilyn monroe</string>
+    <string name="answer_4">mickey mantle</string>
+    <string name="score">Score:</string>
+    <string name="timer">Time:</string>
+    <string name="passes">Passes:</string>
+    <string name="lives">Lives:</string>
+    <string name="select_a_catagory">Select a Catagory:</string>
+    <string name="stats">Stats</string>
+    <string name="todo">TODO</string>
+    <!-- For the User quizzes button -->
+    <string name="User">User</string>
+
+    <!-- STRINGS FOR "EditUserQuizzes" Activity -->
+    <!-- For the Back Button -->
+    <string name="backButton">Back</string>
+    <!-- For the title of the User Created Quiz activity -->
+    <string name="EditUserQuizzesTitle">Edit User Quizzes</string>
+    <!-- For the Create quiz button -->
+    <string name="CreateQuiz">Create</string>
+
+    <!-- STRINGS FOR "CreateQuiz" Activity -->
+    <!--for the Create button-->
+    <string name="create">Create</string>
+    <!--the prompt for the user-created quiz name input box-->
+    <string name="quizNamePrompt">Name your quiz</string>
+    <!--the prompt for the user-created quiz question input box-->
+    <string name="questionPrompt">Write the question</string>
+    <!--for text box telling user to check which answer is the correct choice-->
+    <string name="correctChoiceInstruction">Check the answer that is the correct choice.</string>
+    <!--the prompt for the user-created quiz choice 1 input box-->
+    <string name="answer1">Answer 1</string>
+    <!--the prompt for the user-created quiz choice 2 input box-->
+    <string name="answer2">Answer 2</string>
+    <!--the prompt for the user-created quiz choice 3 input box-->
+    <string name="answer3">Answer 3</string>
+    <!--the prompt for the user-created quiz choice 4 input box-->
+    <string name="answer4">Answer 4</string>
+    <!--for the Add Question button-->
+    <string name="addQuestion">Add Question</string>
+    <!--for the Finish Quiz button-->
+    <string name="finishQuiz">Finish Quiz Creation</string>
+    <!--the text to be displayed if question is not properly filled in-->
+    <!--><string name = "questionWarning">Please fill in all question fields.</string>-->
+    <!--for the Delete Question button-->
+    <string name="deleteQuestion">Delete Question</string>
+    <!--for the Previous Question button-->
+    <string name="previousQuestion">Previous</string>
+    <!--for the Next Question button-->
+    <string name="nextQuestion">Next</string>
+    <!--for the Cancel quiz creation button-->
+    <string name="Cancel">Cancel</string>
+
+    <string name="remember_shake_to_pass_on_a_question">Remember: Shake to pass on a question</string>
+
+
+</resources>
